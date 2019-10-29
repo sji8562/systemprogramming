@@ -1,0 +1,8 @@
+#!/bin/bash
+# testing variables
+days=10
+guest="Kaite"
+echo "$guest checked in $days days"
+days=5
+guest="Jessica"
+echo "$guest checked in $days days"
